@@ -29,12 +29,12 @@ Assuming you have MagicMirror² installed and are still functioning as a somewha
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YOU/MMM-DoomsdayClock.git
+git clone https://github.com/crimsonclyde/mmm-doomsdayclock.git
 cd MMM-DoomsdayClock
 npm install
 ```
 
-## Configuration
+## ⚙️ Configuration
 
 Add the module to your config/config.js file:
 
@@ -48,7 +48,7 @@ Add the module to your config/config.js file:
 },
 ```
 
-## Understanding advice.json
+## 📚 Understanding advice.json
 
 The true genius of this module lies in advice.json — your bunker-friendly message board. Here's how it works:
 
@@ -65,12 +65,25 @@ The true genius of this module lies in advice.json — your bunker-friendly mess
 ]
 ```
 
-maxSeconds: This is the upper limit for this batch of advice. If we're within this number of seconds from midnight, one of these gems will be randomly shown.
+**maxSeconds**: This is the upper limit for this batch of advice. If we're within this number of seconds from midnight, one of these gems will be randomly shown.
+
 You can have multiple blocks, e.g. 1200, 600, 300 seconds — like a tiered “how-screwed-are-we” system.
 Advice rotates every 15 seconds (you know, for suspense).
 Add your own wisdom! The more absurd, the better.
 
-##  Why Though?
+## 🧹 Uninstallation
+
+Decided you'd rather face the end blissfully unaware? No problem. Here's how to remove the Doomsday Clock from your MagicMirror²:
+
+1. Remove the module entry from your `config/config.js` file.
+2. Delete the module directory:
+
+```bash
+cd ~/MagicMirror/modules
+rm -rf MMM-DoomsdayClock
+```
+
+##  🐒 Why Though?
 Because clearly, the apes should’ve stayed in the trees. But noooo. We discovered fire, invented the wheel, built WiFi... and then used it to post selfies in front of mushroom clouds.
 
 So now? Now we watch the clock. Because the only thing left to do is laugh, prep, and pray your WiFi holds long enough to pull the next JSON update.
