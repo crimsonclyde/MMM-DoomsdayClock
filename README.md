@@ -4,7 +4,7 @@
 
 ---
 
-![MagicMirror² screenshot with module](appendix/screenshot_full.png)
+![Screenshot of MMM-DoomsdayClock module](appendix/screenshot_module.png)
 
 
 ## 🪦 Exordium
@@ -50,9 +50,7 @@ Add the module to your config/config.js file:
   }
 },
 ```
-
-![Screenshot of MMM-DoomsdayClock module](appendix/screenshot_module.png)
-
+![MagicMirror² screenshot with module](appendix/screenshot_full.png)
 
 ## 📚 Understanding advice.json
 
