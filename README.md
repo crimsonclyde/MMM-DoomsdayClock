@@ -75,6 +75,17 @@ You can have multiple blocks, e.g. 1200, 600, 300 seconds — like a tiered “h
 Advice rotates every 15 seconds (you know, for suspense).
 Add your own wisdom! The more absurd, the better.
 
+## Update
+
+## 🔄 Updating
+
+Because even the apocalypse gets version updates. To pull the latest sarcastic enhancements:
+
+```bash
+cd ~/MagicMirror/modules/MMM-DoomsdayClock
+git pull
+```
+
 ## 🧹 Uninstallation
 
 Decided you'd rather face the end blissfully unaware? No problem. Here's how to remove the Doomsday Clock from your MagicMirror²:
