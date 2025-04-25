@@ -1,28 +1,84 @@
 [
-  {
-    "maxSeconds": 300,
-    "advice": [
-      "Stock up on canned beans and memes.",
-      "The bunker isn't going to dig itself!",
-      "Time to start writing your end-of-the-world novel."
-    ]
-  },
-  { 
-    "maxSeconds": 600,
-    "advice": [
-      "Maybe don’t start any new Netflix series.",
-      "Upgrade your zombie plan.",
-      "Now's a good time to check your emergency flashlight batteries."
-    ]
-  },
-  { 
-    "maxSeconds": 1200,
-    "advice": [
-      "You’re still good. Try meditating.",
-      "Consider learning how to make sourdough again.",
-      "Maybe grow a tomato plant?"
-    ]
-  }
-]
-
+    {
+      "maxSeconds": 30,
+      "advice": [
+        "Panic. (Just kidding. Stay cool.)",
+        "Send your last meme.",
+        "Yell dramatically into the void."
+      ]
+    },
+    {
+      "maxSeconds": 90,
+      "advice": [
+        "Quick, grab some snacks!",
+        "Practice your best action movie pose.",
+        "Text your mom. She knows what to do."
+      ]
+    },
+    {
+      "maxSeconds": 180,
+      "advice": [
+        "Charge all your devices. Even the weird ones.",
+        "Find your lucky socks.",
+        "Queue up your battle playlist."
+      ]
+    },
+    {
+      "maxSeconds": 900,
+      "advice": [
+        "Perfect time to finally clean that one drawer.",
+        "Write a heartfelt note to your pet.",
+        "Invent a new dance move. Name it after yourself."
+      ]
+    },
+    {
+      "maxSeconds": 1800,
+      "advice": [
+        "Maybe alphabetize your spice rack?",
+        "Start building your pillow fort headquarters.",
+        "Time to rank your top 5 survival snacks."
+      ]
+    },
+    {
+      "maxSeconds": 3600,
+      "advice": [
+        "No rush. Maybe take a power nap?",
+        "Teach your plants motivational speeches.",
+        "Finally read the terms and conditions."
+      ]
+    },
+    {
+      "maxSeconds": 7200,
+      "advice": [
+        "You have time. Invent a board game.",
+        "Rewatch your favorite movie for strategic insights.",
+        "Knit yourself a battle scarf."
+      ]
+    },
+    {
+      "maxSeconds": 14400,
+      "advice": [
+        "Get a head start on your memoir: 'The Day I Waited.'",
+        "Update your apocalypse wardrobe.",
+        "Design your new flag."
+      ]
+    },
+    {
+      "maxSeconds": 28800,
+      "advice": [
+        "Plenty of time to master yo-yo tricks.",
+        "Record your will... in interpretive dance.",
+        "Sketch your dream underground lair."
+      ]
+    },
+    {
+      "maxSeconds": 43200,
+      "advice": [
+        "Plan your ultimate heist... of cookies.",
+        "Form alliances with local squirrels.",
+        "Build a throne out of laundry baskets."
+      ]
+    }
+  ]
+  
 
