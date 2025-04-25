@@ -4,6 +4,9 @@
 
 ---
 
+![MagicMirror² screenshot with module](appendix/screenshot_full.png)
+
+
 ## 🪦 Exordium
 
 Let’s face it: humanity peaked somewhere between inventing pizza and discovering how to open beer bottles with a lighter. Since then, it’s been a solid free-fall — aided generously by political chaos, influencers doing the cinnamon challenge, and billionaires trying to buy planets. 🙄
@@ -41,12 +44,15 @@ Add the module to your config/config.js file:
 ```java
 {
   module: "MMM-DoomsdayClock",
-  position: "top_center",
+  position: "top_right",
   config: {
     updateInterval: 24 * 60 * 60 * 1000 // Update once a day, because the end is near but not *that* near
   }
 },
 ```
+
+![Screenshot of MMM-DoomsdayClock module](appendix/screenshot_module.png)
+
 
 ## 📚 Understanding advice.json
 
