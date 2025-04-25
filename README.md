@@ -29,7 +29,7 @@ Assuming you have MagicMirror² installed and are still functioning as a somewha
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/crimsonclyde/mmm-doomsdayclock.git
+git clone https://github.com/crimsonclyde/MMM-DoomsdayClock.git
 cd MMM-DoomsdayClock
 npm install
 ```
