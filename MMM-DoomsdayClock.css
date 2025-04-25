@@ -1,6 +1,5 @@
 .doomsday-clock {
     text-align: center;
-    font-family: "Roboto", sans-serif;
   }
   
   .clock-line, .advice-line {
@@ -16,7 +15,7 @@
   .doomsday-clock-wrapper {
     text-align: center;
     font-family: "Helvetica", sans-serif;
-    color: #ccc;
+    color: lightgray;
     padding: 10px;
   }
   
@@ -30,7 +29,7 @@
     font-size: 24px;
     margin-left: 8px;
     vertical-align: middle;
-    color: #ffffff;
+    color: white;
   }
   
   .clock-time {
@@ -47,7 +46,7 @@
   
   .prepper-section {
     font-size: 14px;
-    color: #ff0000;
+    color: white;
   }
   
   .prepper-title {
@@ -57,6 +56,6 @@
   
   .prepper-text {
     font-style: italic;
-    color: #fff;
+    color: lightgray;
   }
   
