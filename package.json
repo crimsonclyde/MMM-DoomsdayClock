@@ -1,0 +1,13 @@
+{
+  "name": "MMM-DoomsdayClock",
+  "version": "0.0.2",
+  "description": "Displays the current Doomsday Clock time with humorous advice.",
+  "main": "MMM-DoomsdayClock.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.7"
+  },
+  "author": "CrimsonClyde",
+  "license": "MIT"
+}
+

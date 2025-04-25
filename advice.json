@@ -1,0 +1,28 @@
+[
+  {
+    "maxSeconds": 300,
+    "advice": [
+      "Stock up on canned beans and memes.",
+      "The bunker isn't going to dig itself!",
+      "Time to start writing your end-of-the-world novel."
+    ]
+  },
+  { 
+    "maxSeconds": 600,
+    "advice": [
+      "Maybe don’t start any new Netflix series.",
+      "Upgrade your zombie plan.",
+      "Now's a good time to check your emergency flashlight batteries."
+    ]
+  },
+  { 
+    "maxSeconds": 1200,
+    "advice": [
+      "You’re still good. Try meditating.",
+      "Consider learning how to make sourdough again.",
+      "Maybe grow a tomato plant?"
+    ]
+  }
+]
+
+

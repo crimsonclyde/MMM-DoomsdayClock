@@ -1,0 +1,62 @@
+.doomsday-clock {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .clock-line, .advice-line {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  .clock-time, .advice-text {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  .doomsday-clock-wrapper {
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+    color: #ccc;
+    padding: 10px;
+  }
+  
+  .doomsday-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .clock-icon {
+    font-size: 24px;
+    margin-left: 8px;
+    vertical-align: middle;
+    color: #ffffff;
+  }
+  
+  .clock-time {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  .doomsday-divider {
+    margin: 12px auto;
+    width: 80%;
+    border: none;
+    border-top: 1px solid #555;
+  }
+  
+  .prepper-section {
+    font-size: 14px;
+    color: #ff0000;
+  }
+  
+  .prepper-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .prepper-text {
+    font-style: italic;
+    color: #fff;
+  }
+  
