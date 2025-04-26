@@ -23,7 +23,7 @@
   vertical-align: bottom;
   margin-left: 10px;
   font-size: 40px;
-  color: white;
+  color: lightgray;
   margin-top: 60px;
 }
 
@@ -33,7 +33,7 @@
   margin-left: 8px;
   margin-top:  0px;
   vertical-align: bottom;
-  color: grey;
+  color: gray;
 }
   
 .clock-time {
@@ -45,12 +45,12 @@
   margin: 12px auto;
   width: 80%;
   border: none;
-  border-top: 1px solid #555;
+  border-top: 1px solid darkslategray;
 }
   
 .prepper-section {
   font-size: 14px;
-  color: white;
+  color: lightgray;
 }
   
 .prepper-title {
@@ -60,5 +60,5 @@
   
 .prepper-text {
   font-style: italic;
-  color: lightgray;
+  color: gray;
 }
