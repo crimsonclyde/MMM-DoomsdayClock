@@ -56,8 +56,9 @@ Module.register("MMM-DoomsdayClock", {
       wrapper.innerHTML = `
         <div class="doomsday-title">
           <span class="title-text">Doomsday</span>
-          <i class="fa fa-clock-o fa-4x clock-icon"></i>
+          <i class="fa fa-clock-o clock-icon"></i>
         </div>
+        <hr class="doomsday-divider">
         <div class="clock-time">${this.clockData}</div>
         <hr class="doomsday-divider">
         <div class="prepper-section">
@@ -65,6 +66,7 @@ Module.register("MMM-DoomsdayClock", {
           <div class="prepper-text">${this.advice}</div>
         </div>
       `;
+
   
       return wrapper;
     }

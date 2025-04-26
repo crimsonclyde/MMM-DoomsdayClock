@@ -1,61 +1,64 @@
 .doomsday-clock {
-    text-align: center;
-  }
+  text-align: center;
+}
+
+.clock-line, .advice-line {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+.clock-time, .advice-text {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.doomsday-clock-wrapper {
+  text-align: center;
+  color: lightgray;
+  padding: 10px;
+}
+
+.doomsday-title {
+  display: inline-block;
+  vertical-align: bottom;
+  margin-left: 10px;
+  font-size: 40px;
+  color: white;
+  margin-top: 60px;
+}
+
+.clock-icon {
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 8px;
+  margin-top:  0px;
+  vertical-align: bottom;
+  color: grey;
+}
   
-  .clock-line, .advice-line {
-    font-size: 1.2em;
-    margin-top: 10px;
-  }
+.clock-time {
+  font-size: 16px;
+  margin-top: 5px;
+}
   
-  .clock-time, .advice-text {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 5px;
-  }
-  .doomsday-clock-wrapper {
-    text-align: center;
-    font-family: "Helvetica", sans-serif;
-    color: lightgray;
-    padding: 10px;
-  }
+.doomsday-divider {
+  margin: 12px auto;
+  width: 80%;
+  border: none;
+  border-top: 1px solid #555;
+}
   
-  .doomsday-title {
-    font-size: 40px;
-    font-weight: bold;
-    color: white;
-  }
+.prepper-section {
+  font-size: 14px;
+  color: white;
+}
   
-  .clock-icon {
-    font-size: 24px;
-    margin-left: 8px;
-    vertical-align: middle;
-    color: white;
-  }
+.prepper-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
   
-  .clock-time {
-    font-size: 16px;
-    margin-top: 5px;
-  }
-  
-  .doomsday-divider {
-    margin: 12px auto;
-    width: 80%;
-    border: none;
-    border-top: 1px solid #555;
-  }
-  
-  .prepper-section {
-    font-size: 14px;
-    color: white;
-  }
-  
-  .prepper-title {
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-  
-  .prepper-text {
-    font-style: italic;
-    color: lightgray;
-  }
-  
+.prepper-text {
+  font-style: italic;
+  color: lightgray;
+}
